@@ -1,0 +1,27 @@
+{
+    "profile":[   
+   {
+    "basics":{
+     "name":"Roshini",
+     "role":"Student",
+     "phone":"7569539566",
+     "email":"roshinikotagiri21@gmail.com"
+    },
+    "career":"Aspire to work in a dynamic organization where there is scope to takeup new challenges"
+
+   },
+
+
+   {
+    "basics":{
+     "name":"Sita",
+     "role":"student",
+     "phone":"9492714037",
+     "email":"sita13@gmail.com"
+    },
+    "career":"Aspire to work in a dynamic organization where there is scope to takeup new challenges"
+
+
+   }
+   ]
+}
